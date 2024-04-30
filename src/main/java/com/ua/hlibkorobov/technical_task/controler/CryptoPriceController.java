@@ -25,5 +25,4 @@ public class CryptoPriceController {
         log.info("get mark price for: {}", symbol);
         return new ResponseEntity<>(cryptoService.getMarkPrice(symbol), OK);
     }
-
 }

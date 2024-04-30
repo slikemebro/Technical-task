@@ -1,6 +1,5 @@
 package com.ua.hlibkorobov.technical_task.controler;
 
-
 import com.ua.hlibkorobov.technical_task.exception.InvalidSymbolException;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.http.ResponseEntity;
